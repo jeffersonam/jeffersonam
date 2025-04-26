@@ -1,16 +1,20 @@
-## Hi there 👋
+## Bem- Vindo me chamo Jefferson Reis
 
-<!--
-**jeffersonam/jeffersonam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bem-vindo ao Extrusa !
+🚀 Extrusa PET é um grupo de Desenvolvimento de Projetos dentro do curso de Manufatura Avançada da FATEC . Nosso objetivo é transformar ideias em soluções inovadoras para a Indústria 4.0!
 
-Here are some ideas to get you started:
+🔧 O que fazemos?
+✔️ Desenvolvimento de sistemas automatizados
+✔️ Aplicação de Indústria 4.0 e IoT
+✔️ Uso de Arduino, CIs e outras tecnologias
+✔️ Colaboração em projetos de inovação tecnológica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que usamos:
+🔹 Programação: C++,
+🔹 Hardware: Arduino, CI555, 
+
+📚 Projetos
+Semestre	Nome do Projeto	Cliente	Descrição	Repositório
+4 SEM	Sensor Barreira	Interno	O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente.	Sensor Barreira
+
+
