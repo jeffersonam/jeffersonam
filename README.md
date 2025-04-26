@@ -11,10 +11,9 @@
 
 🚀 Tecnologias que usamos:
 🔹 Programação: C++,
-🔹 Hardware: Arduino, CI555, 
+🔹 Hardware: Arduino, motor de passo,modulo w1209,hot ende de impressora 3D
 
 📚 Projetos
 Semestre	Nome do Projeto	Cliente	Descrição	Repositório
-4 SEM	Sensor Barreira	Interno	O sensor de barreira é um dispositivo eletrônico que utiliza a tecnologia de emissão de luz infravermelha, o sistema (IVA), para detectar movimentações irregulares no ambiente.	Sensor Barreira
-
+1 SEM a proposta é uma Extrusora de filamentos pet
 
