@@ -13,7 +13,5 @@
 🔹 Programação: C++,
 🔹 Hardware: Arduino, motor de passo,modulo w1209,hot ende de impressora 3D
 
-📚 Projetos
-Semestre	Nome do Projeto	Cliente	Descrição	Repositório
-1 SEM a proposta é uma Extrusora de filamentos pet
+
 
